@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Subsets {
+public class Subset{
 
     public static List<List<Integer>> subsets(int[] nums) {
 
